@@ -2,6 +2,53 @@
 
 
 
+# Project Name
+
+![Project Name](https://img.shields.io/badge/Project%20Name-DuckDuckGo-blue)
+![Description](https://img.shields.io/badge/Description-Privacy%20focused%20search%20engine-lightgrey)
+![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![GitHub Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social)
+![Build Status](https://img.shields.io/travis/duckduckgo/Android?label=Build%20Status&logo=travis)
+![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android)
+![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total)
+
+---
+
+# Project Overview
+
+| Project Name | Description | Version | License | GitHub Stars | Build Status | Last Commit | Downloads |
+|--------------|-------------|---------|---------|--------------|--------------|-------------|-----------|
+| DuckDuckGo   | Privacy focused search engine | 1.0.0 | MIT | ![GitHub Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social) | ![Build Status](https://img.shields.io/travis/duckduckgo/Android?label=Build%20Status&logo=travis) | ![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android) | ![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total) |
+| LibreTube    | Open-source YouTube client | 1.0.0 | MIT | ![GitHub Stars](https://img.shields.io/github/stars/libre-tube/LibreTube?style=social) | ![Build Status](https://img.shields.io/travis/libre-tube/LibreTube?label=Build%20Status&logo=travis) | ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube) | ![Downloads](https://img.shields.io/github/downloads/libre-tube/LibreTube/total) |
+| Pocket Casts | Podcast player for Android | 1.0.0 | MIT | ![GitHub Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social) | ![Build Status](https://img.shields.io/travis/Automattic/pocket-casts-android?label=Build%20Status&logo=travis) | ![Last Commit](https://img.shields.io/github/last-commit/Automattic/pocket-casts-android) | ![Downloads](https://img.shields.io/github/downloads/Automattic/pocket-casts-android/total) |
+
+---
+
+## Getting Started
+
+To get started with any of these projects, follow the instructions in their respective repositories.
+
+### Links
+- [DuckDuckGo GitHub](https://github.com/duckduckgo/Android)
+- [LibreTube GitHub](https://github.com/libre-tube/LibreTube)
+- [Pocket Casts GitHub](https://github.com/Automattic/pocket-casts-android)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Projects Overview
 
 <div style="overflow-x: auto;">
