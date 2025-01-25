@@ -4,6 +4,61 @@
 
 
 
+
+# Project Name
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Language](https://img.shields.io/badge/language-Kotlin-orange)
+![License](https://img.shields.io/badge/license-Apache%202.0-brightgreen)
+![GitHub Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android)
+![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total)
+
+## Description
+
+A brief description of the project goes here.
+
+## Project Links
+
+| Project Name         | Description                       | Version | Language | License         | GitHub Stars | Build Status | Last Commit | Downloads |
+|----------------------|-----------------------------------|---------|----------|------------------|--------------|--------------|-------------|-----------|
+| [DuckDuckGo](https://github.com/duckduckgo/Android) | Android app for DuckDuckGo | 1.0.0  | Kotlin   | Apache 2.0      | ![GitHub Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social) | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) | ![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android) | ![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total) |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | YouTube client for Android   | 1.0.0  | Kotlin   | GPL-3.0         | ![GitHub Stars](https://img.shields.io/github/stars/libre-tube/LibreTube?style=social) | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) | ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube) | ![Downloads](https://img.shields.io/github/downloads/libre-tube/LibreTube/total) |
+| [Pocket Casts Android](https://github.com/Automattic/pocket-casts-android) | Podcast player for Android   | 1.0.0  | Kotlin   | MIT              | ![GitHub Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social) | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) | ![Last Commit](https://img.shields.io/github/last-commit/Automattic/pocket-casts-android) | ![Downloads](https://img.shields.io/github/downloads/Automattic/pocket-casts-android/total) |
+
+## Installation
+
+Instructions for installing the project.
+
+## Usage
+
+Instructions for using the project.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+This project is licensed under the [Apache 2.0 License](LICENSE).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Name
 
 ![Project Name](https://img.shields.io/badge/Project%20Name-DuckDuckGo-blue)
