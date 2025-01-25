@@ -2,6 +2,121 @@
 
 
 
+# Projects Overview
+
+<div style="overflow-x: auto;">
+
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Version</th>
+      <th>License</th>
+      <th>GitHub Stars</th>
+      <th>Build Status</th>
+      <th>Last Commit</th>
+      <th>Downloads</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/duckduckgo/Android">DuckDuckGo</a>
+      </td>
+      <td>
+        Privacy-focused search engine that does not track your searches.
+      </td>
+      <td>
+        ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+      </td>
+      <td>
+        ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+      </td>
+      <td>
+        ![GitHub Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social)
+      </td>
+      <td>
+        ![Build Status](https://img.shields.io/travis/duckduckgo/Android?label=build)
+      </td>
+      <td>
+        ![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android)
+      </td>
+      <td>
+        ![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/libre-tube/LibreTube">LibreTube</a>
+      </td>
+      <td>
+        Alternative YouTube app that respects your privacy.
+      </td>
+      <td>
+        ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+      </td>
+      <td>
+        ![License](https://img.shields.io/badge/license-GPL%20v3-brightgreen)
+      </td>
+      <td>
+        ![GitHub Stars](https://img.shields.io/github/stars/libre-tube/LibreTube?style=social)
+      </td>
+      <td>
+        ![Build Status](https://img.shields.io/travis/libre-tube/LibreTube?label=build)
+      </td>
+      <td>
+        ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube)
+      </td>
+      <td>
+        ![Downloads](https://img.shields.io/github/downloads/libre-tube/LibreTube/total)
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Automattic/pocket-casts-android">Pocket Casts Android</a>
+      </td>
+      <td>
+        Powerful podcast player for listening on the go.
+      </td>
+      <td>
+        ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+      </td>
+      <td>
+        ![License](https://img.shields.io/badge/license-MIT-brightgreen)
+      </td>
+      <td>
+        ![GitHub Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social)
+      </td>
+      <td>
+        ![Build Status](https://img.shields.io/travis/Automattic/pocket-casts-android?label=build)
+      </td>
+      <td>
+        ![Last Commit](https://img.shields.io/github/last-commit/Automattic/pocket-casts-android)
+      </td>
+      <td>
+        ![Downloads](https://img.shields.io/github/downloads/Automattic/pocket-casts-android/total)
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
