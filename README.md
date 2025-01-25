@@ -47,3 +47,34 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| **Project Name** | **Description** | **Version** | License | GitHub Stars | Build Status | Last Commit | Downloads |
+|-------------------|----------------|-------------|---------|---------------|---------------|------------|-----------|
+| ![Pocket Casts Name](https://img.shields.io/badge/Pocket%20Casts%20%7C%20Podcast%20Player%20%7C%20Android%20App%20%7C%20Automattic%20%7C)   | ![Pocket Casts Desc](https://img.shields.io/badge/Description%3A%20%20A%20powerful%20podcast%20player%20with%20great%20features.%20Listen%20to%20your%20favorite%20podcasts%20on%20the%20go.%20-%20Podcast%20Player%20App%20-%20Play%20Your%20Favorite%20Podcasts%20on%20Android%20-%20Pocket%20Casts%20-%20Automattic%20-%20Podcasts%20%7C%20android%20app%20reviews) | <img src="https://img.shields.io/badge/Version%20%7C%20pocketcast-7.0.0-red"> | Apache 2.0 | ![Stars](https://img.shields.io/github/stars/Automattic/Pocket-Casts?style=social) | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  | 2023-10-01   | ![Downloads](https://img.shields.io/github/downloads/Automattic/Pocket-Casts/total) |
+| ![Ivy Wallet Name](https://img.shields.io/badge/Ivy%20Wallet%20%7C%20Secure%20Crypto%20Wallet%20%7C%20Ivy%20Wallet%20%7C) | ![Ivy Wallet Desc](https://img.shields.io/badge/Description%3A%20Ivy%20Wallet%20is%20a%20secure%20crypto%20wallet%20for%20mobile.%20%20Store%2C%20send%2C%20and%20exchange%20your%20cryptocurrencies%20with%20ease.%20-%20Ivy%20Wallet%20-%20Crypto%20Wallets%20for%20Android%20-%20Best%20Crypto%20Wallet%20Apps%20-%20Secure%20Crypto%20Wallets) | <img src="https://img.shields.io/badge/Version%20%7C%20ivywallet-3.1.2-yellow"> | MIT | ![Stars](https://img.shields.io/github/stars/ivywallet/ivywallet?style=social)     | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  | 2023-09-20   | ![Downloads](https://img.shields.io/github/downloads/ivywallet/ivywallet/total) |
+| ![LibreTube Name](https://img.shields.io/badge/LibreTube%20%7C%20Open%20Source%20%7C%20YouTube%20Client%20%7C%20Android%20App%20%7C) | ![LibreTube Desc](https://img.shields.io/badge/Description%3A%20LibreTube%20is%20an%20open%20source%20YouTube%20client%20for%20Android.%20%20Watch%20your%20favorite%20videos%20on%20LibreTube.%20-%20LibreTube%20-%20YouTube%20App%20-%20Best%20Android%20Apps%20-%20YouTube%20Clients) | <img src="https://img.shields.io/badge/Version%20%7C%20libretube-0.2.0-blue"> | GPL-3.0 | ![Stars](https://img.shields.io/github/stars/libretube/libretube?style=social)      | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  | 2023-09-15   | ![Downloads](https://img.shields.io/github/downloads/libretube/libretube/total) |
+| ![DuckDuckGo Name](https://img.shields.io/badge/DuckDuckGo%20%7C%20Search%20Engine%20%7C%20DuckDuckGo%20%7C%20Best%20Search%20Engines%20%7C) | ![DuckDuckGo Desc](https://img.shields.io/badge/Description%3A%20DuckDuckGo%20is%20a%20privacy-focused%20search%20engine%20for%20mobile.%20%20Get%20your%20searches%20private%20with%20DuckDuckGo.%20-%20DuckDuckGo%20-%20Search%20Engine%20Apps%20-%20Private%20Search%20Engines%20-%20Best%20Mobile%20Search%20Engines) | <img src="https://img.shields.io/badge/Version%20%7C%20duckduckgo-5.130.0-green"> | MIT | ![Stars](https://img.shields.io/github/stars/duckduckgo/duckduckgo?style=social)  | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  | 2023-10-05   | ![Downloads](https://img.shields.io/github/downloads/duckduckgo/duckduckgo/total) |
+| ![FlowCrypt Name](https://img.shields.io/badge/FlowCrypt%20%7C%20End-To-End%20Encryption%20%7C%20FlowCrypt%20%7C) | ![FlowCrypt Desc](https://img.shields.io/badge/Description%3A%20FlowCrypt%20is%20an%20end-to-end%20encryption%20solution%20for%20emails.%20%20Send%20private%20emails%20with%20ease%20via%20FlowCrypt.%20-%20FlowCrypt%20-%20Email%20Encryption%20-%20End-To-End%20Encryption%20%7C) | <img src="https://img.shields.io/badge/Version%20%7C%20flowcrypt-1.13.0-purple"> | GPL-3.0 | ![Stars](https://img.shields.io/github/stars/FlowCrypt/flowcrypt-browser?style=social)  | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  | 2023-09-22   | ![Downloads](https://img.shields.io/github/downloads/FlowCrypt/flowcrypt-browser/total) |
+| ![SimpleX Name](https://img.shields.io/badge/Simple%20X%20%7C%20Private%20Messaging%20%7C%20SimpleX%20%7C%20Secure%20Messaging%20App%20%7C) | ![SimpleX Desc](https://img.shields.io/badge/Description%3A%20SimpleX%20is%20a%20privacy-preserving%20messaging%20app%20for%20Android.%20%20Send%20and%20receive%20secure%20messages%20on%20SimpleX.%20-%20SimpleX-%20Secure%20Messaging-Apps%20-%20Privacy%20Focused%20Messaging%20Apps) | <img src="https://img.shields.io/badge/Version%20%7C%20simplex-0.5.0-orange"> | GPL-3.0 | ![Stars](https://img.shields.io/github/stars/simplex-chat/simplex?style=social)     | ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  | 2023-09-29   | ![Downloads](https://img.shields.io/github/downloads/simplex-chat/simplex/total) |
+
+
+
+
+
+
+
+
