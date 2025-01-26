@@ -1,6 +1,46 @@
 # open-source
 
 
+# Project Overview
+
+## [DuckDuckGo](https://github.com/duckduckgo/Android)
+- **Description**: A privacy-focused search engine for Android.
+- **Version**: ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+- **Language**: ![Language](https://img.shields.io/badge/language-Kotlin-orange)
+- **License**: ![License](https://img.shields.io/badge/license-MIT-green)
+- **GitHub Stars**: ![Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social)
+- **Build Status**: ![Build Status](https://img.shields.io/github/workflow/status/duckduckgo/Android/Build)
+- **Last Commit**: ![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android)
+- **Downloads**: ![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total)
+- **Contributors**: ![Contributors](https://img.shields.io/github/contributors/duckduckgo/Android)
+- **Language Count**: ![Language Count](https://img.shields.io/github/languages/count/duckduckgo/Android)
+- **Sponsors**: ![Sponsors](https://img.shields.io/github/sponsors/duckduckgo)
+- **File Size**: ![File Size](https://img.shields.io/github/size/duckduckgo/Android/README.md)
+- **Code Size**: ![Code Size](https://img.shields.io/github/languages/code-size/duckduckgo/Android)
+
+---
+
+## [LibreTube](https://github.com/libre-tube/LibreTube)
+- **Description**: An open-source YouTube client for Android.
+- **Version**: ![Version](https://img.shields.io/badge/version-1.0.0-blue)
+- **Language**: ![Language](https://img.shields.io/badge/language-Kotlin-orange)
+- **License**: ![License](https://img.shields.io/badge/license-MIT-green)
+- **GitHub Stars**: ![Stars](https://img.shields.io/github/stars/libre-tube/LibreTube?style=social)
+- **Build Status**: ![Build Status](https://img.shields.io/github/workflow/status/libre-tube/LibreTube/Build)
+- **Last Commit**: ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube)
+- **Downloads**: ![Downloads](https://img.shields.io/github/downloads/libre-tube/LibreTube/total)
+- **Contributors**: ![Contributors](https://img.shields.io/github/contributors/libre-tube/LibreTube)
+- **Language Count**: ![Language Count](https://img.shields.io/github/languages/count/libre-tube/LibreTube)
+- **Sponsors**: ![Sponsors](https://img.shields.io/github/sponsors/libre-tube)
+- **File Size**: ![File Size](https://img.shields.io/github/size/libre-tube/LibreTube/README.md)
+- **Code Size**: ![Code Size](https://img.shields.io/github/languages/code-size/libre-tube/LibreTube)
+
+
+
+
+
+
+
 
 
 
