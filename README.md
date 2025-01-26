@@ -4,6 +4,29 @@
 
 
 
+# Project Overview
+
+| Project Name | Description | Version | Language | License | GitHub Stars | Build Status | Last Commit | Downloads | Contributors | Language Count | Sponsors | File Size | Code Size |
+|--------------|-------------|---------|----------|---------|---------------|--------------|-------------|-----------|--------------|----------------|----------|-----------|-----------|
+| [DuckDuckGo](https://github.com/duckduckgo/Android) | A privacy-focused search engine for Android. | ![Version](https://img.shields.io/badge/version-1.0.0-blue) | ![Language](https://img.shields.io/badge/language-Kotlin-orange) | ![License](https://img.shields.io/badge/license-MIT-green) | ![Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social) | ![Build Status](https://img.shields.io/github/workflow/status/duckduckgo/Android/Build) | ![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android) | ![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total) | ![Contributors](https://img.shields.io/github/contributors/duckduckgo/Android) | ![Language Count](https://img.shields.io/github/languages/count/duckduckgo/Android) | ![Sponsors](https://img.shields.io/github/sponsors/duckduckgo) | ![File Size](https://img.shields.io/github/size/duckduckgo/Android/README.md) | ![Code Size](https://img.shields.io/github/languages/code-size/duckduckgo/Android) |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | An open-source YouTube client for Android. | ![Version](https://img.shields.io/badge/version-1.0.0-blue) | ![Language](https://img.shields.io/badge/language-Kotlin-orange) | ![License](https://img.shields.io/badge/license-MIT-green) | ![Stars](https://img.shields.io/github/stars/libre-tube/LibreTube?style=social) | ![Build Status](https://img.shields.io/github/workflow/status/libre-tube/LibreTube/Build) | ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube) | ![Downloads](https://img.shields.io/github/downloads/libre-tube/LibreTube/total) | ![Contributors](https://img.shields.io/github/contributors/libre-tube/LibreTube) | ![Language Count](https://img.shields.io/github/languages/count/libre-tube/LibreTube) | ![Sponsors](https://img.shields.io/github/sponsors/libre-tube) | ![File Size](https://img.shields.io/github/size/libre-tube/LibreTube/README.md) | ![Code Size](https://img.shields.io/github/languages/code-size/libre-tube/LibreTube) |
+| [Pocket Casts Android](https://github.com/Automattic/pocket-casts-android) | A powerful podcast player for Android. | ![Version](https://img.shields.io/badge/version-1.0.0-blue) | ![Language](https://img.shields.io/badge/language-Kotlin-orange) | ![License](https://img.shields.io/badge/license-MIT-green) | ![Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social) | ![Build Status](https://img.shields.io/github/workflow/status/Automattic/pocket-casts-android/Build) | ![Last Commit](https://img.shields.io/github/last-commit/Automattic/pocket-casts-android) | ![Downloads](https://img.shields.io/github/downloads/Automattic/pocket-casts-android/total) | ![Contributors](https://img.shields.io/github/contributors/Automattic/pocket-casts-android) | ![Language Count](https://img.shields.io/github/languages/count/Automattic/pocket-casts-android) | ![Sponsors](https://img.shields.io/github/sponsors/Automattic) | ![File Size](https://img.shields.io/github/size/Automattic/pocket-casts-android/README.md) |
+| ![Code Size](https://img.shields.io/github/languages/code-size/Automattic/pocket-casts-android) |
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Project Overview
 
