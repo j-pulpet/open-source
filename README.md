@@ -5,6 +5,33 @@
 
 
 
+# Project Overview
+
+| Project Name | Description | Version | Language | License | GitHub Stars | Build Status | Last Commit | Downloads |
+|--------------|-------------|---------|----------|---------|---------------|--------------|-------------|-----------|
+| [DuckDuckGo](https://github.com/duckduckgo/Android) | A privacy-focused search engine for Android. | ![Version](https://img.shields.io/badge/version-1.0.0-blue) | ![Language](https://img.shields.io/badge/language-Kotlin-orange) | ![License](https://img.shields.io/badge/license-MIT-green) | ![Stars](https://img.shields.io/github/stars/duckduckgo/Android?style=social) | ![Build Status](https://img.shields.io/github/workflow/status/duckduckgo/Android/Build) | ![Last Commit](https://img.shields.io/github/last-commit/duckduckgo/Android) | ![Downloads](https://img.shields.io/github/downloads/duckduckgo/Android/total) |
+| [LibreTube](https://github.com/libre-tube/LibreTube) | An open-source YouTube client for Android. | ![Version](https://img.shields.io/badge/version-1.0.0-blue) | ![Language](https://img.shields.io/badge/language-Kotlin-orange) | ![License](https://img.shields.io/badge/license-MIT-green) | ![Stars](https://img.shields.io/github/stars/libre-tube/LibreTube?style=social) | ![Build Status](https://img.shields.io/github/workflow/status/libre-tube/LibreTube/Build) | ![Last Commit](https://img.shields.io/github/last-commit/libre-tube/LibreTube) | ![Downloads](https://img.shields.io/github/downloads/libre-tube/LibreTube/total) |
+| [Pocket Casts Android](https://github.com/Automattic/pocket-casts-android) | A powerful podcast player for Android. | ![Version](https://img.shields.io/badge/version-1.0.0-blue) | ![Language](https://img.shields.io/badge/language-Kotlin-orange) | ![License](https://img.shields.io/badge/license-MIT-green) | ![Stars](https://img.shields.io/github/stars/Automattic/pocket-casts-android?style=social) | ![Build Status](https://img.shields.io/github/workflow/status/Automattic/pocket-casts-android/Build) | ![Last Commit](https://img.shields.io/github/last-commit/Automattic/pocket-casts-android) | ![Downloads](https://img.shields.io/github/downloads/Automattic/pocket-casts-android/total) |
+
+---
+
+## Description
+
+This table provides an overview of three popular Android projects, showcasing their key metrics and statuses. Each project is linked to its GitHub repository for further exploration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Project Name
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
